@@ -9,5 +9,5 @@ In plans: To create my own Mobile App, already got some good ideas)
 
 🧰 Toolbox 
  
- <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="50" height="50"/>
 ---
