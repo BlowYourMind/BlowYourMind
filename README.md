@@ -2,9 +2,7 @@
 
 BIO:
 To start learning to code was the best decision I have ever made in my life. It’s fun to build things from your mind!
-Currently working with PHP.
-In plans: To create my own Mobile App, already got some good ideas)
-
+Currently working with PHP, Laravel
 
 ---
 
