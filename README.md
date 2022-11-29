@@ -1,8 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Maksim!
 
-BIO:
-To start learning to code was the best decision I have ever made in my life. It’s fun to build things from your mind!
-Currently working with PHP, Laravel
+Description of me and my works:
+I am a PHP backend developer. Decided to become a programmer about 9 moths ago, for that time learned a lot of new and usefull things. But still I am always learning something new in each day. Want to become really good developer, to help people иring ideas to life. Biggest time of my programmers life worked with vanila PHP and Laravel framework, also got works completed with react and NextJS frameworks.
 
 ---
 
