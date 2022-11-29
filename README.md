@@ -5,9 +5,21 @@ I am a PHP backend developer. Decided to become a programmer about 9 moths ago, 
 
 ---
 
-🧰 Toolbox 
+🧰 My stack 
  
- <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vueJS Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextJS Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Ts Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind Logo" width="50" height="50"/>
+
 ---
 ## &#x1f4c8;  My GitHub Stats
 
